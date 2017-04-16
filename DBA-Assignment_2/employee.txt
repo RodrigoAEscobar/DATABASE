@@ -1,0 +1,15 @@
+1111, Wilson, Philip, 75000, 3, IT
+1115, Jacob, Jacob, 13000, 0, IT
+2222, Smith, Karen, 9725, 1, Accounting
+2225, Peeples, Nia, 100000, 16, Legal
+3335, Smith, Jim, 15000, 1, Legal
+4444, Kia, Susan, 23996, 3, Accounting
+4445, James, James, 13779, 1, IT
+5580, Jennings, Ken, 65000, 0, Accounting
+6666, Kell, Keith, 13000, 1, Accounting
+6690, Paul, Paul, 17550, 1, IT
+7790, Small, Nell, 23000, 5, Legal
+8888, Jones, Janet, 15755, 2, Sales
+8890, Partridge, Lori, 23000, 1, Sales
+8895, Jackson, Janet, 55000, 3, IT
+9999, Braff, Zachary, 73550, 0, Sales
